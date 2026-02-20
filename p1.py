@@ -1,5 +1,6 @@
 s = input("enter a string: ")
 length = len(s)
+print("hii")
 
 if length > 5:
     mid = length // 2
