@@ -13,4 +13,6 @@ if any(ch in "AEIOUaeiou" for ch in zz):
     print("has vowels")
 else:
     print("doesn't has vowels")
-    
+
+b=5
+a =b
