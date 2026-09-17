@@ -88,3 +88,9 @@ def tictactoegame():
     r.mainloop()
 
 tictactoegame()
+
+
+//X Wins: 3
+O Wins: 2
+Draws: 1
+future updated display me add krne hain
